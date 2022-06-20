@@ -31,6 +31,7 @@ export interface Atmosphere {
 
 export interface Condition {
     temperature: number
+    text: string
 }
 
 export interface Astronomy {
