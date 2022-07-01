@@ -1,4 +1,11 @@
 # WeatherWeb
+Amazing Weather Web developed by Tiago Carleial 
+On this Web you can search temperature from around the world
+Typescrip / Angular
+Using API from RapidApi
+
+![weatherweb](https://user-images.githubusercontent.com/47113697/176958875-f6195d96-3f05-41a2-8afe-d4611840f834.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
